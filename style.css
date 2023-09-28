@@ -16,17 +16,43 @@ img{
 
 .boxpozadie {
     background-color: #F7F2F1;
-    border-radius: 30px;
+    border-radius: 10px;
+    margin: 150px;
+    width: 550px;
+    height: 550px;
+    padding: 20px;
+    }
+
+h1{
+    color:#EC9511;
+    font-size: 36px;
+    margin: 30px;
+    font-weight: bold;
+}
+p{
+    color:#0A0403;
+    margin: 30px;
+    font-size: 18px;
+    font-style: normal;
+}
+a {
+    color: #F7F2F1;
+    text-decoration: none;
 
 }
-h1{color:#d63031;}
-p{color:#0A0403;}
-.vizitka {
- 
-
+.tlacitko {
+    width: auto;
+    height: 45px;
+    background-color: #EC9511;
+    border-radius: 10px;
+    margin-top: 5px;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    color:#F7F2F1;
+    box-shadow: 2px 2px 2px #a1a1a1;
 }
-
-
 
 /*
 BARVY:

@@ -6,21 +6,26 @@ body{
     background-color: #b2bec3;
     font-family: 'Nunito Sans', sans-serif;
     font-family: 'Open Sans', sans-serif;
-}
+    }
 
 img{
     width: 150px;
     border: 3px solid #F7F2F1;
     border-radius: 50%;
+    position: absolute;
+    right: 27%;
+    top: 100px;
+    box-shadow: 2px 3px 2px #6E6D6A;
    }
 
 .boxpozadie {
     background-color: #F7F2F1;
     border-radius: 10px;
-    margin: 150px;
     width: 550px;
-    height: 550px;
+    height: 500px;
     padding: 20px;
+    margin: 150px auto;
+    box-shadow:  3px 3px 2px #6E6D6A;
     }
 
 h1{
@@ -38,12 +43,12 @@ p{
 a {
     color: #F7F2F1;
     text-decoration: none;
+    }
 
-}
 .tlacitko {
     width: auto;
     height: 45px;
-    background-color: #EC9511;
+    background-color: #1da1f2;
     border-radius: 10px;
     margin-top: 5px;
     padding: 10px;
@@ -52,7 +57,19 @@ a {
     text-transform: uppercase;
     color:#F7F2F1;
     box-shadow: 2px 2px 2px #a1a1a1;
-}
+    }
+.tlacitko twitter{
+    background-color: #1da1f2;
+    }
+.tlacitko fb{
+    background-color: #3b5998;
+    }
+.tlacitko twitter:hover {
+    background-color:#0b7bc1;
+    }
+.tlacitko twitter:hover {
+    background-color: #2b406e;
+    }
 
 /*
 BARVY:

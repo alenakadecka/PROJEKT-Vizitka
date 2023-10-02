@@ -5,10 +5,7 @@ html { box-sizing: border-box; }
 body{
     background-color: #b2bec3;
     font-family: 'Nunito', sans-serif;
-    font-family: 'Nunito Sans', sans-serif;
-    font-family: 'Open Sans', sans-serif;
-    
-    }
+      }
 
 img{
     width: 150px;
